@@ -7,7 +7,7 @@
 
 ### 🇬🇧 Hi, I’m Ingrid 👋🏼
 - ⚖️ Master’s degree in Law from the University of Oslo
-- 👩🏼‍💻 Currently pursuing a Bachelor’s degree in Computer Science – Programming and Systems Architecture @University of Oslo
+- 👩🏼‍💻 Currently pursuing a Bachelor’s degree in Computer Science at the University of Oslo
 - 🚀 Working part-time as a Legal Process and Prompting Engineer at Saga AI
 - 🤖 Particularly interested in AI and legal tech
 
